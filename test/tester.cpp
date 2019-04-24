@@ -29,7 +29,7 @@ void Tester::execute() {
     }
 }
 
-template <typename T>
+template<typename T>
 bool Tester::isSorted(List<T> &list) {
     for (int i = 1; i < list.size(); ++i) {
         if ((is_same<T, Integer>::value) && list[i - 1] > list[i]) {

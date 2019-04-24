@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/typetraits/typetraits-L4mb0/list.h
+node.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/typetraits/typetraits-L4mb0/node.h
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/typetraits/typetraits-L4mb0/main.cpp
+iostream
+-
+test/tester.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/typetraits/typetraits-L4mb0/test/tester.h
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/typetraits/typetraits-L4mb0/mock/mocker.h
+random
+-
+type_traits
+-
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/typetraits/typetraits-L4mb0/node.h
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/typetraits/typetraits-L4mb0/test/tester.cpp
+tester.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/typetraits/typetraits-L4mb0/test/tester.h
+
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/typetraits/typetraits-L4mb0/test/tester.h
+stdexcept
+-
+iostream
+-
+assert.h
+-
+../mock/mocker.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/typetraits/typetraits-L4mb0/mock/mocker.h
+../list.h
+/root/Documentos/Tareas/cursos de carreara varoniles/ciclo 5/AED/labs/typetraits/typetraits-L4mb0/list.h
+
